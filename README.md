@@ -29,10 +29,10 @@ it can help supplement your notes.
 ## Run
 Run the program. 
 1. What is the output?
-    >
+    > your answer
 
 2. Did your prediction agree with the output? Explain where it may have differed.
-    >
+    > your answer
 
 ## Investigate
 In this section, your instruction will provide direct instruction in the following topics.
