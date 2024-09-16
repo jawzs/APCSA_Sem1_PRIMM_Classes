@@ -35,17 +35,8 @@ Run the program.
     > your answer
 
 ## Investigate
-In this section, your instruction will provide direct instruction in the following topics.
-You should take careful notes.
-- Purpose of a class
-- Connection between driver class and class
-- Anatomy of a class
-- Visibility specifiers
-- Constructors
-- Accessors (Getters)
-- Mutators (Setters)
-- Unified Markup Language (UML)
-- JavaDoc standards
+In this section, your instructor will alternate between explaining topics and tackling a `TODO` in the Modify section.
+Make sure you take careful notes on the major topics.
 
 ## Modify
 Starting with the `Square.java` file, resolve each of the `TODO` items. 
