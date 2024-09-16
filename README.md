@@ -12,7 +12,7 @@ it can help supplement your notes.
 **Without running the program**, predict what its behavior is.
 
 1. What will the program output when it is run?
-    >  I think it will output the side length of a square.
+    >  I think it will prompt the user for the side length of a square
 
 2. What do you think the words `public` and `private` mean?
     > I think private means the variable can only be used in that file but public mean it can be used in different java files in the same project.
