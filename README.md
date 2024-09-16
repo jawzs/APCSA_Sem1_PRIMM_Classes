@@ -24,7 +24,7 @@ it can help supplement your notes.
     > yes becuase it defines different methods inside.
 
 5. Why do the methods/functions `getSide()` and `setSide()` exist? 
-    > get side gets data and setside uses that data to perform calculations.
+    > Get side gets data from the user and setside uses that data to perform calculations.
 
 ## Run
 Run the program. 
