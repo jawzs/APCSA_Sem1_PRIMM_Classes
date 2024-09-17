@@ -13,8 +13,8 @@ class Square {
     private double perimeter = 4.0;
 
         /** The area of the square **/
-        // TODO: add an instance variable for area
-    
+        //adds an instance variable for area
+    private double area = 1.0;
 
     /**
      * Constructor

@@ -18,7 +18,7 @@ it can help supplement your notes.
     > I think private means the variable can only be used in that file but public mean it can be used in different java files in the same project.
 
 3. How are the files `ShapeDriver.java` and `Square.java` related? 
-    > your square.java defines methods used in shapedriver.
+    > Square.java defines methods used in shapedriver.java
 
 4. There is no method definition for `Square()`. Do you think the code will compile? 
     > yes becuase it defines different methods inside.
@@ -29,10 +29,10 @@ it can help supplement your notes.
 ## Run
 Run the program. 
 1. What is the output?
-    > your answer
+    > Side: 1.00
 
 2. Did your prediction agree with the output? Explain where it may have differed.
-    > your answer
+    > I was wrong about it aksing 
 
 ## Investigate
 In this section, your instructor will alternate between explaining topics and tackling a `TODO` in the Modify section.
