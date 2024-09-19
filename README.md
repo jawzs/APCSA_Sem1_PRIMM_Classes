@@ -32,7 +32,7 @@ Run the program.
     > Side: 1.00
 
 2. Did your prediction agree with the output? Explain where it may have differed.
-    > I was wrong about it aksing 
+    > I was wrong about it asking for impput fron the user
 
 ## Investigate
 In this section, your instructor will alternate between explaining topics and tackling a `TODO` in the Modify section.
