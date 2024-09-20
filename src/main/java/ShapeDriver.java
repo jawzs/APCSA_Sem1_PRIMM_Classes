@@ -46,7 +46,7 @@ class ShapeDriver {
         double inputSqSide = scanner.nextDouble();
 
         //updates area, and perimeter
-        sq1.inputSide(inputSqSide);
+        sq1.setInputSide(inputSqSide);
 
         System.out.printf("Side: %.2f\n", sq1.getSide());
         System.out.printf("Perimeter: %.2f\n", sq1.getPerimeter());
@@ -69,7 +69,7 @@ class ShapeDriver {
         double inputTriangleSide = scanner.nextDouble();
 
         //updates area, and perimeter
-        tri1.triangleSide(inputTriangleSide);
+        tri1.setTriangleSide(inputTriangleSide);
 
         System.out.printf("Triangle Side: %.2f\n", tri1.getTriSide());
         System.out.printf("Triangle Height: %.2f\n", tri1.getHeight());
@@ -81,7 +81,7 @@ class ShapeDriver {
         double inputTriangleHeight = scanner.nextDouble();
 
         //updates area, and perimeter
-        tri1.trianlgeHeight(inputTriangleHeight);
+        tri1.setTriangleHeight(inputTriangleHeight);
 
         System.out.printf("Triangle Side: %.2f\n", tri1.getTriSide());
         System.out.printf("Triangle Height: %.2f\n", tri1.getHeight());
@@ -93,7 +93,7 @@ class ShapeDriver {
          double inputTriangleArea = scanner.nextDouble();
 
          //updates area, and perimeter
-         tri1.triangleArea(inputTriangleArea);
+         tri1.setTriangleArea(inputTriangleArea);
 
         //closes scanner once finsihed
         scanner.close();

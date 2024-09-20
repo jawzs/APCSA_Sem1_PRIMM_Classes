@@ -50,19 +50,19 @@ public class Triangle {
         return area;
     }
 
-    public void triangleSide(double s) {
+    public void setTriangleSide(double s) {
         side = s;
         height = (Math.sqrt(3.0)/2.0) * side;
         area = (side * height)/2.0;
     }
 
-    public void trianlgeHeight(double h) {
+    public void setTriangleHeight(double h) {
         height = h;
         side = (2.0 * height)/Math.sqrt(3.0);
         area = (side * height)/2.0;
     }
 
-    public void triangleArea(double a) {
+    public void setTriangleArea(double a) {
         area = a;
         side = Math.sqrt((4.0 * area)/Math.sqrt(3.0));
         height = (Math.sqrt(3.0)/2.0) * side;

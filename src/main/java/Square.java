@@ -78,7 +78,7 @@ class Square {
     /**
      * Sets side length (from input) Perimeter and side lenght are updated
      */
-    public void inputSide(double s){
+    public void setIputSide(double s){
         side = s;
         perimeter  = side * 4;
         area = side * side;
